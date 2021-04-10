@@ -1,0 +1,1 @@
+cmd_/home/user/Downloads/driver-model/v2/modules.order := {   echo /home/user/Downloads/driver-model/v2/dummy_serial_dev.ko;   echo /home/user/Downloads/driver-model/v2/dummy_serial_driver.ko; :; } | awk '!x[$$0]++' - > /home/user/Downloads/driver-model/v2/modules.order

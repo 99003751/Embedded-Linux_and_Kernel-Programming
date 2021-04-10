@@ -1,0 +1,1 @@
+cmd_/home/user/Downloads/driver-model/v2/dummy_serial_dev.ko := arm-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/user/Downloads/driver-model/v2/dummy_serial_dev.ko /home/user/Downloads/driver-model/v2/dummy_serial_dev.o /home/user/Downloads/driver-model/v2/dummy_serial_dev.mod.o ;  true

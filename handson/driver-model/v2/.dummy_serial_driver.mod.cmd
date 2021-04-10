@@ -1,0 +1,1 @@
+cmd_/home/user/Downloads/driver-model/v2/dummy_serial_driver.mod := { echo  /home/user/Downloads/driver-model/v2/dummy_serial_driver.o;  echo; } > /home/user/Downloads/driver-model/v2/dummy_serial_driver.mod
