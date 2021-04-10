@@ -314,6 +314,6 @@ module_exit(psuedo_exit);
 
 MODULE_LICENSE("GPL");
 
-MODULE_AUTHOR("Rajat");
+MODULE_AUTHOR("Shrinidhi V Katti");
 
 MODULE_DESCRIPTION("A pseudo sample Module");
